@@ -1,6 +1,6 @@
 // Collect the user's age using prompt()
 
-const user_age = parseInt(prompt("Enter your age:"));
+const user_age = parseInt(prompt("Enter your age:")); //function that is used to display and utilized to collect information from users
 
 if (user_age < 5) {
     console.log("You are a Toddler."); //if the age is less than 5 mean that the user is a "Toddler"

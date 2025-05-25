@@ -1,4 +1,6 @@
 // Declare a variable that will hold the favNumber
+
+
 const theFavNumber = 18; // this is my favNumber
 
 let guess; // this will Initialize the variable to hold the user's guess
